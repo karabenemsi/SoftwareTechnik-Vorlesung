@@ -1,0 +1,28 @@
+======= Vektor Start ========
+Vector: X: 3 Y: 4
+Vector: X: 7 Y: 6
+Vector: X: 7 Y: 6
+45
+45
+======= Vektor Ende ========
+======= Zeiger Start ========
+40 40 40 
+======= Zeiger Ende ========
+======= Komplex Start ========
+Komplex: -5+14j
+Komplex: 3+2j
+Komplex: 3--2j
+======= Komplex Ende ========
+======= Rechteck Start ========
+Rechteck: A(2,4);
+          B(7,4);
+          C(7,11);
+          D(2,11);
+Rechteck: A(2,4);
+          B(7,4);
+          C(7,11);
+          D(2,11);
+======= Stack Start ========
+======= Stack Ende ========
+Groesse Stack: 3
+Oberstes Element: Vector: X: 2 Y: 2
