@@ -1,21 +1,22 @@
 #pragma once
 #include "Point.h"
 #include <iostream>
+#include "Shape.h"
 
-class Rectangle
+class Rectangle : public Shape
 {
 private:
 	double height;
 	double width;
-	Point origin;
 public:
-	Rectangle(double originX = 0, double originY = 0, double width = 1, double height = 1);
+	Rectangle(Point origin = Point(0, 0), double width = 1, double height = 1);
 	~Rectangle();
 	Rectangle(const Rectangle& r);
 
-	Point getOrigin() const;
 	double getHeight() const;
 	double getWidth() const;
+
+	void draw();
 	Rectangle operator=(const Rectangle& a);
 };
 

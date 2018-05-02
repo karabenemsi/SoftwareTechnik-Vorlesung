@@ -8,15 +8,8 @@ Vector::Vector(int x, int y)
 	this->y = y;
 }
 
-Vector::Vector(){
-	this->x = 1;
-	this->y = 1;
-}
-
-
 Vector::~Vector()
 {
-	std::cout << "Delete called" << std::endl;
 }
 
 Vector::Vector(const Vector& v){
@@ -47,12 +40,19 @@ int Vector::mult(const Vector& v) {
 	return(this->x*v.getX() + this->y*v.getY());
 }
 
+Vector Vector::operator=(const Vector& v)
+{
+	Vector::x = v.getX();
+	Vector::y = v.getY();
+	return *this;
+}
+
 
 Vector operator+(Vector a, Vector b) {
 	return Vector(b.getX() + a.getX(), b.getY() + a.getY());
 }
 
-std::ostream & operator<<(std::ostream & os, Vector & v)
+std::ostream & operator<<(std::ostream & os, Vector& v)
 {
 	os << "Vector: X: " << v.getX() << " Y: " << v.getY();
 	return os;

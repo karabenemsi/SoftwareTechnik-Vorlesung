@@ -34,12 +34,12 @@ double Komplex::getI() const
 	return i;
 }
 
-Komplex Komplex::operator+(const Komplex & x)
+Komplex Komplex::operator+(const Komplex& x)
 {
 	return Komplex((r + x.getR()),(i + x.getI()));
 }
 
-Komplex Komplex::operator-(const Komplex & x)
+Komplex Komplex::operator-(const Komplex& x)
 {
 	return Komplex((r - x.getR()), (i - x.getI()));
 }
@@ -49,29 +49,29 @@ Komplex Komplex::operator*(const Komplex& x) {
 	return Komplex((x.getR() * r - x.getI() * i), (x.getR() * i + r * x.getI()));
 }
 
-Komplex Komplex::operator/(const Komplex & x)
+Komplex Komplex::operator/(const Komplex& x)
 {
 	double real = (r*x.getR() + i * x.getI()) / (x.getR()*x.getR() + i + i);
 	double img = (-1 * r*x.getI() + x.getR() * i) / (x.getR()*x.getR() + i + i);
 	return Komplex(r, img);
 }
 
-Komplex Komplex::operator+=(const Komplex & x)
+Komplex Komplex::operator+=(const Komplex& x)
 {
 	return Komplex((x.getR() + r), (x.getI() + i));
 }
 
-Komplex Komplex::operator-=(const Komplex & x)
+Komplex Komplex::operator-=(const Komplex& x)
 {
 	return Komplex(1,1);
 }
 
-Komplex Komplex::operator*=(const Komplex & x)
+Komplex Komplex::operator*=(const Komplex& x)
 {
 	return Komplex(1,1);
 }
 
-Komplex Komplex::operator/=(const Komplex & x)
+Komplex Komplex::operator/=(const Komplex& x)
 {
 	return Komplex(1,1);
 }

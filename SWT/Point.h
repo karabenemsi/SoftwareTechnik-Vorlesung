@@ -1,9 +1,7 @@
 #pragma once
 #include <iostream>
-
 class Point
 {
-
 private:
 	double x;
 	double y;
@@ -14,6 +12,8 @@ public:
 	
 	double getX() const;
 	double getY() const;
+	void setX(double x);
+	void setY(double y);
 	Point operator=(const Point& p);
 
 };

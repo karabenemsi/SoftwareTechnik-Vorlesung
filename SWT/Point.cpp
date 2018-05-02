@@ -13,7 +13,7 @@ Point::~Point()
 {
 }
 
-Point::Point(const Point & p)
+Point::Point(const Point& p)
 {
 	Point::x = p.getX();
 	Point::y = p.getY();
@@ -29,14 +29,24 @@ double Point::getY() const
 	return y;
 }
 
-Point Point::operator=(const Point & p)
+void Point::setX(double x)
+{
+	Point::x = x;
+}
+
+void Point::setY(double y)
+{
+	Point::y = y;
+}
+
+Point Point::operator=(const Point& p)
 {
 	Point::x = p.getX();
 	Point::y = p.getY();
 	return *this;
 }
 
-std::ostream & operator<<(std::ostream & os, Point & r)
+std::ostream & operator<<(std::ostream & os, Point& r)
 {
 	os << "Punkt: (" << r.getX() << "," << r.getY() << ");";
 	return os;
