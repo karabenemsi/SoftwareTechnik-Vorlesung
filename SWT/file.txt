@@ -1355,3 +1355,338 @@ Shape:  007FF89C
 ======= Vererbung Ende ========
 
 
+======= Vektor Start ========
+Vector: X: 3 Y: 4
+Vector: X: 7 Y: 6
+Vector: X: 7 Y: 6
+45
+45
+======= Vektor Ende ========
+
+
+======= Zeiger Start ========
+40 40 40 
+======= Zeiger Ende ========
+
+
+======= Komplex Start ========
+Komplex: -5+14j
+Komplex: 3+2j
+Komplex: 3--2j
+======= Komplex Ende ========
+
+
+======= Rechteck Start ========
+ (2,11)
+  +---------+ C(7,11)
+  |         |  
+  |         |  
+  +---------+ (7,4) 
+ (2,4)
+
+ (2,11)
+  +---------+ C(7,11)
+  |         |  
+  |         |  
+  +---------+ (7,4) 
+ (2,4)
+
+======= Rechteck Ende ========
+
+
+======= Stack Start ========
+Groesse Stack: 3
+Oberstes Element: Vector: X: 2 Y: 2
+======= Stack Ende ========
+
+
+======= Vererbung Start ========
+Linie: A(5,7);
+       B(8,11);
+Kreis: M(3,5);
+       Radius: 3.5
+Linie: A(7,9);
+       B(10,13);
+Kreis: M(6,10);
+       Radius: 3.5
+Bogen: M(3,5);
+       Radius: 4
+       Winkel 1: 20 Grad
+       Winkel 2: 39 Grad
+-- Picture -----
+Shape:  009DF8A8
+Shape:  009DF8E0
+Shape:  009DF848
+----------------
+
+======= Vererbung Ende ========
+
+
+======= Vektor Start ========
+Vector: X: 3 Y: 4
+Vector: X: 7 Y: 6
+Vector: X: 7 Y: 6
+45
+45
+======= Vektor Ende ========
+
+
+======= Zeiger Start ========
+40 40 40 
+======= Zeiger Ende ========
+
+
+======= Komplex Start ========
+Komplex: -5+14j
+Komplex: 3+2j
+Komplex: 3--2j
+======= Komplex Ende ========
+
+
+======= Rechteck Start ========
+ (2,11)
+  +---------+ C(7,11)
+  |         |  
+  |         |  
+  +---------+ (7,4) 
+ (2,4)
+
+ (2,11)
+  +---------+ C(7,11)
+  |         |  
+  |         |  
+  +---------+ (7,4) 
+ (2,4)
+
+======= Rechteck Ende ========
+
+
+======= Stack Start ========
+Groesse Stack: 3
+Oberstes Element: Vector: X: 2 Y: 2
+======= Stack Ende ========
+
+
+======= Vererbung Start ========
+Linie: A(5,7);
+       B(8,11);
+Kreis: M(3,5);
+       Radius: 3.5
+Linie: A(7,9);
+       B(10,13);
+Kreis: M(6,10);
+       Radius: 3.5
+Bogen: M(3,5);
+       Radius: 4
+       Winkel 1: 20 Grad
+       Winkel 2: 39 Grad
+-- Picture -----
+Item:  011DF908
+Item:  011DF940
+Item:  011DF8A8
+----------------
+
+======= Vererbung Ende ========
+
+
+======= Vektor Start ========
+Vector: X: 3 Y: 4
+Vector: X: 7 Y: 6
+Vector: X: 7 Y: 6
+45
+45
+======= Vektor Ende ========
+
+
+======= Zeiger Start ========
+40 40 40 
+======= Zeiger Ende ========
+
+
+======= Komplex Start ========
+Komplex: -5+14j
+Komplex: 3+2j
+Komplex: 3--2j
+======= Komplex Ende ========
+
+
+======= Rechteck Start ========
+ (2,11)
+  +---------+ C(7,11)
+  |         |  
+  |         |  
+  +---------+ (7,4) 
+ (2,4)
+
+ (2,11)
+  +---------+ C(7,11)
+  |         |  
+  |         |  
+  +---------+ (7,4) 
+ (2,4)
+
+======= Rechteck Ende ========
+
+
+======= Stack Start ========
+Groesse Stack: 3
+Oberstes Element: Vector: X: 2 Y: 2
+======= Stack Ende ========
+
+
+======= Vererbung Start ========
+Linie: A(5,7);
+       B(8,11);
+Kreis: M(3,5);
+       Radius: 3.5
+Linie: A(7,9);
+       B(10,13);
+Kreis: M(6,10);
+       Radius: 3.5
+Bogen: M(3,5);
+       Radius: 4
+       Winkel 1: 20 Grad
+       Winkel 2: 39 Grad
+-- Picture -----
+Item:  008FF624
+Item:  008FF65C
+Item:  008FF5C4
+----------------
+
+======= Vererbung Ende ========
+
+
+======= Vektor Start ========
+Vector: X: 3 Y: 4
+Vector: X: 7 Y: 6
+Vector: X: 7 Y: 6
+45
+45
+======= Vektor Ende ========
+
+
+======= Zeiger Start ========
+40 40 40 
+======= Zeiger Ende ========
+
+
+======= Komplex Start ========
+Komplex: -5+14j
+Komplex: 3+2j
+Komplex: 3--2j
+======= Komplex Ende ========
+
+
+======= Rechteck Start ========
+ (2,11)
+  +---------+ C(7,11)
+  |         |  
+  |         |  
+  +---------+ (7,4) 
+ (2,4)
+
+ (2,11)
+  +---------+ C(7,11)
+  |         |  
+  |         |  
+  +---------+ (7,4) 
+ (2,4)
+
+======= Rechteck Ende ========
+
+
+======= Stack Start ========
+Groesse Stack: 3
+Oberstes Element: Vector: X: 2 Y: 2
+======= Stack Ende ========
+
+
+======= Vererbung Start ========
+Linie: A(5,7);
+       B(8,11);
+Kreis: M(3,5);
+       Radius: 3.5
+Linie: A(7,9);
+       B(10,13);
+Kreis: M(6,10);
+       Radius: 3.5
+Bogen: M(3,5);
+       Radius: 4
+       Winkel 1: 20 Grad
+       Winkel 2: 39 Grad
+-- Picture -----
+Item:  00F3F234
+Item:  00F3F234
+Item:  00F3F234
+----------------
+
+======= Vererbung Ende ========
+
+
+======= Vektor Start ========
+Vector: X: 3 Y: 4
+Vector: X: 7 Y: 6
+Vector: X: 7 Y: 6
+45
+45
+======= Vektor Ende ========
+
+
+======= Zeiger Start ========
+40 40 40 
+======= Zeiger Ende ========
+
+
+======= Komplex Start ========
+Komplex: -5+14j
+Komplex: 3+2j
+Komplex: 3--2j
+======= Komplex Ende ========
+
+
+======= Rechteck Start ========
+ (2,11)
+  +---------+ C(7,11)
+  |         |  
+  |         |  
+  +---------+ (7,4) 
+ (2,4)
+
+ (2,11)
+  +---------+ C(7,11)
+  |         |  
+  |         |  
+  +---------+ (7,4) 
+ (2,4)
+
+======= Rechteck Ende ========
+
+
+======= Stack Start ========
+Groesse Stack: 3
+Oberstes Element: Vector: X: 2 Y: 2
+======= Stack Ende ========
+
+
+======= Vererbung Start ========
+Linie: A(5,7);
+       B(8,11);
+Kreis: M(3,5);
+       Radius: 3.5
+Linie: A(7,9);
+       B(10,13);
+Kreis: M(6,10);
+       Radius: 3.5
+Bogen: M(3,5);
+       Radius: 4
+       Winkel 1: 20 Grad
+       Winkel 2: 39 Grad
+-- Picture -----
+Item:  00EFF04C
+Item:  00EFF04C
+Item:  00EFF04C
+----------------
+
+======= Vererbung Ende ========
+
+

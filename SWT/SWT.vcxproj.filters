@@ -48,6 +48,12 @@
     <ClInclude Include="Picture.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
+    <ClInclude Include="Factory.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="ShapeFactory.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -81,6 +87,12 @@
       <Filter>Quelldateien</Filter>
     </ClCompile>
     <ClCompile Include="Picture.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Factory.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="ShapeFactroy.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
   </ItemGroup>

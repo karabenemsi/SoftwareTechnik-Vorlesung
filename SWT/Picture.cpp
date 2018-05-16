@@ -51,9 +51,9 @@ std::ostream & operator<<(std::ostream & os, const Picture& p)
 {	
 	os << "-- Picture -----" << std::endl;
 	for (auto const shape : p.getShapes()){
-		shape->draw();
-		os << "Shape:  " ;
-		os << shape << std::endl;
+		//shape->draw();
+		os << "Item:  " ;
+		os << &shape << std::endl;
 	}
 	os << "----------------" << std::endl;
 	return os;
