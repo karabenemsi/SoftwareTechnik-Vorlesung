@@ -149,6 +149,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="Arc.h" />
+    <ClInclude Include="Bridge.h" />
     <ClInclude Include="Circle.h" />
     <ClInclude Include="Factory.h" />
     <ClInclude Include="Komplex.h" />
@@ -164,6 +165,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Arc.cpp" />
+    <ClCompile Include="Bridge.cpp" />
     <ClCompile Include="Circle.cpp" />
     <ClCompile Include="Factory.cpp" />
     <ClCompile Include="Komplex.cpp" />

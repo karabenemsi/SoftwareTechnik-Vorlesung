@@ -2,11 +2,15 @@
 #include "Shape.h"
 #include <iostream>
 #include <vector>
+#include "Bridge.h"
 
 class Picture: public Shape
 {
 private:
 		std::vector<Shape*> shapes;
+
+		PrintImplement* printi;
+
 public:
 	Picture();
 	~Picture();

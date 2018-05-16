@@ -54,6 +54,9 @@
     <ClInclude Include="ShapeFactory.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
+    <ClInclude Include="Bridge.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -93,6 +96,9 @@
       <Filter>Quelldateien</Filter>
     </ClCompile>
     <ClCompile Include="ShapeFactroy.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Bridge.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
   </ItemGroup>

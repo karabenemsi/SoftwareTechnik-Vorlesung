@@ -1,10 +1,12 @@
 #include "stdafx.h"
 #include "Picture.h"
 #include "Point.h"
+#include "Bridge.h"
 
 
 Picture::Picture()
 {
+	Picture::printi = new PrintImplementA;
 }
 
 
