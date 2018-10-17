@@ -53,7 +53,6 @@ Rectangle Rectangle::operator=(const Rectangle& a) {
 }
 
 std::ostream& operator<<(std::ostream& os, Rectangle& r) {
-	int height = r.getHeight() / 3;
 os << " (" << r.getOrigin().getX() << "," << r.getOrigin().getY() + r.getHeight() << ")" << std::endl
 << "  +---------+ C(" << r.getOrigin().getX() + r.getWidth() << "," << r.getOrigin().getY() + r.getHeight() << ")" << std::endl
 << "  |         |  " << std::endl

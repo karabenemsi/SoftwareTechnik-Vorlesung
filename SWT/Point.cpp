@@ -46,6 +46,26 @@ Point Point::operator=(const Point& p)
 	return *this;
 }
 
+bool Point::operator<(const Point& p, const Point& b)
+{
+	if (p.getX() < b.getX()) {
+		return true;
+	}
+	else {
+		return false;
+	}
+}
+
+bool Point::operator>(const Point& p, const Point& b)
+{
+	if (p.getX() > b.getX()) {
+		return true;
+	}
+	else {
+		return false;
+	}
+}
+
 std::ostream & operator<<(std::ostream & os, Point& r)
 {
 	os << "Punkt: (" << r.getX() << "," << r.getY() << ");";

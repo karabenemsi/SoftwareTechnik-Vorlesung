@@ -15,6 +15,9 @@ public:
 	void setX(double x);
 	void setY(double y);
 	Point operator=(const Point& p);
+	bool operator<(const Point& p, const Point& b);
+	bool operator>(const Point& p, const Point& b);
+
 
 };
 

@@ -1757,3 +1757,387 @@ Item:  00D5F220
 ======= Vererbung Ende ========
 
 
+======= Vektor Start ========
+Vector: X: 3 Y: 4
+Vector: X: 7 Y: 6
+Vector: X: 7 Y: 6
+45
+45
+======= Vektor Ende ========
+
+
+======= Zeiger Start ========
+40 40 40 
+======= Zeiger Ende ========
+
+
+======= Komplex Start ========
+Komplex: -5+14j
+Komplex: 3+2j
+Komplex: 3--2j
+======= Komplex Ende ========
+
+
+======= Rechteck Start ========
+ (2,11)
+  +---------+ C(7,11)
+  |         |  
+  |         |  
+  +---------+ (7,4) 
+ (2,4)
+
+ (2,11)
+  +---------+ C(7,11)
+  |         |  
+  |         |  
+  +---------+ (7,4) 
+ (2,4)
+
+======= Rechteck Ende ========
+
+
+======= Stack Start ========
+Groesse Stack: 3
+Oberstes Element: Vector: X: 2 Y: 2
+======= Stack Ende ========
+
+
+======= Vererbung Start ========
+Linie: A(5,7);
+       B(8,11);
+Kreis: M(3,5);
+       Radius: 3.5
+Linie: A(7,9);
+       B(10,13);
+Kreis: M(6,10);
+       Radius: 3.5
+Bogen: M(3,5);
+       Radius: 4
+       Winkel 1: 20 Grad
+       Winkel 2: 39 Grad
+-- Picture -----
+Item:  004FEC6C
+Item:  004FEC6C
+Item:  004FEC6C
+----------------
+
+======= Vererbung Ende ========
+
+
+======= Vektor Start ========
+Vector: X: 3 Y: 4
+Vector: X: 7 Y: 6
+Vector: X: 7 Y: 6
+45
+45
+======= Vektor Ende ========
+
+
+======= Zeiger Start ========
+40 40 40 
+======= Zeiger Ende ========
+
+
+======= Komplex Start ========
+Komplex: -5+14j
+Komplex: 3+2j
+Komplex: 3--2j
+======= Komplex Ende ========
+
+
+======= Rechteck Start ========
+ (2,11)
+  +---------+ C(7,11)
+  |         |  
+  |         |  
+  +---------+ (7,4) 
+ (2,4)
+
+ (2,11)
+  +---------+ C(7,11)
+  |         |  
+  |         |  
+  +---------+ (7,4) 
+ (2,4)
+
+======= Rechteck Ende ========
+
+
+======= Stack Start ========
+Groesse Stack: 3
+Oberstes Element: Vector: X: 2 Y: 2
+======= Stack Ende ========
+
+
+======= Vererbung Start ========
+Linie: A(5,7);
+       B(8,11);
+Kreis: M(3,5);
+       Radius: 3.5
+Linie: A(7,9);
+       B(10,13);
+Kreis: M(6,10);
+       Radius: 3.5
+Bogen: M(3,5);
+       Radius: 4
+       Winkel 1: 20 Grad
+       Winkel 2: 39 Grad
+-- Picture -----
+Item:  003DE6B0
+Item:  003DE6B0
+Item:  003DE6B0
+----------------
+
+======= Vererbung Ende ========
+
+
+======= Vektor Start ========
+Vector: X: 3 Y: 4
+Vector: X: 7 Y: 6
+Vector: X: 7 Y: 6
+45
+45
+======= Vektor Ende ========
+
+
+======= Zeiger Start ========
+40 40 40 
+======= Zeiger Ende ========
+
+
+======= Komplex Start ========
+Komplex: -5+14j
+Komplex: 3+2j
+Komplex: 3--2j
+======= Komplex Ende ========
+
+
+======= Rechteck Start ========
+ (2,11)
+  +---------+ C(7,11)
+  |         |  
+  |         |  
+  +---------+ (7,4) 
+ (2,4)
+
+ (2,11)
+  +---------+ C(7,11)
+  |         |  
+  |         |  
+  +---------+ (7,4) 
+ (2,4)
+
+======= Rechteck Ende ========
+
+
+======= Stack Start ========
+Groesse Stack: 3
+Oberstes Element: Vector: X: 2 Y: 2
+======= Stack Ende ========
+
+
+======= Vererbung Start ========
+Linie: A(5,7);
+       B(8,11);
+Kreis: M(3,5);
+       Radius: 3.5
+Linie: A(7,9);
+       B(10,13);
+Kreis: M(6,10);
+       Radius: 3.5
+Bogen: M(3,5);
+       Radius: 4
+       Winkel 1: 20 Grad
+       Winkel 2: 39 Grad
+-- Picture -----
+Item:  006FE558
+Item:  006FE558
+Item:  006FE558
+----------------
+
+======= Vererbung Ende ========
+
+
+======= Template Start ========
+-858993460   -858993460
+======= Template Ende ========
+
+
+======= Liste Start ========
+5
+4
+3
+======= Liste Ende ========
+
+
+======= Vektor Start ========
+Vector: X: 3 Y: 4
+Vector: X: 7 Y: 6
+Vector: X: 7 Y: 6
+45
+45
+======= Vektor Ende ========
+
+
+======= Zeiger Start ========
+40 40 40 
+======= Zeiger Ende ========
+
+
+======= Komplex Start ========
+Komplex: -5+14j
+Komplex: 3+2j
+Komplex: 3--2j
+======= Komplex Ende ========
+
+
+======= Rechteck Start ========
+ (2,11)
+  +---------+ C(7,11)
+  |         |  
+  |         |  
+  +---------+ (7,4) 
+ (2,4)
+
+ (2,11)
+  +---------+ C(7,11)
+  |         |  
+  |         |  
+  +---------+ (7,4) 
+ (2,4)
+
+======= Rechteck Ende ========
+
+
+======= Stack Start ========
+Groesse Stack: 3
+Oberstes Element: Vector: X: 2 Y: 2
+======= Stack Ende ========
+
+
+======= Vererbung Start ========
+Linie: A(5,7);
+       B(8,11);
+Kreis: M(3,5);
+       Radius: 3.5
+Linie: A(7,9);
+       B(10,13);
+Kreis: M(6,10);
+       Radius: 3.5
+Bogen: M(3,5);
+       Radius: 4
+       Winkel 1: 20 Grad
+       Winkel 2: 39 Grad
+-- Picture -----
+Item:  00D9E690
+Item:  00D9E690
+Item:  00D9E690
+----------------
+
+======= Vererbung Ende ========
+
+
+======= Template Start ========
+-858993460   -858993460
+======= Template Ende ========
+
+
+======= Liste Start ========
+6
+5
+4
+3
+2
+1
+Punkt: (0,2);
+Punkt: (0,1);
+Punkt: (0,0);
+======= Liste Ende ========
+
+
+======= Vektor Start ========
+Vector: X: 3 Y: 4
+Vector: X: 7 Y: 6
+Vector: X: 7 Y: 6
+45
+45
+======= Vektor Ende ========
+
+
+======= Zeiger Start ========
+40 40 40 
+======= Zeiger Ende ========
+
+
+======= Komplex Start ========
+Komplex: -5+14j
+Komplex: 3+2j
+Komplex: 3--2j
+======= Komplex Ende ========
+
+
+======= Rechteck Start ========
+ (2,11)
+  +---------+ C(7,11)
+  |         |  
+  |         |  
+  +---------+ (7,4) 
+ (2,4)
+
+ (2,11)
+  +---------+ C(7,11)
+  |         |  
+  |         |  
+  +---------+ (7,4) 
+ (2,4)
+
+======= Rechteck Ende ========
+
+
+======= Stack Start ========
+Groesse Stack: 3
+Oberstes Element: Vector: X: 2 Y: 2
+======= Stack Ende ========
+
+
+======= Vererbung Start ========
+Linie: A(5,7);
+       B(8,11);
+Kreis: M(3,5);
+       Radius: 3.5
+Linie: A(7,9);
+       B(10,13);
+Kreis: M(6,10);
+       Radius: 3.5
+Bogen: M(3,5);
+       Radius: 4
+       Winkel 1: 20 Grad
+       Winkel 2: 39 Grad
+-- Picture -----
+Item:  007CE460
+Item:  007CE460
+Item:  007CE460
+----------------
+
+======= Vererbung Ende ========
+
+
+======= Template Start ========
+-858993460   -858993460
+======= Template Ende ========
+
+
+======= Liste Start ========
+6
+5
+4
+3
+2
+1
+Punkt: (3,3);
+Punkt: (2,2);
+Punkt: (1,1);
+Punkt: (0,0);
+======= Liste Ende ========
+
+
